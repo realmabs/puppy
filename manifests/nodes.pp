@@ -4,6 +4,6 @@
 #	}
 #}
 
-node 'kalletabur2' {
+node default {
    include puppet
 }
